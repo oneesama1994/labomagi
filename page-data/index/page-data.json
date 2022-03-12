@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"thumbnails":{"edges":[{"node":{"publicURL":"/labomagi/static/5e080ef5e9539eb10500891f0298074a/thumbnail-650-918.pbew","relativePath":"Netorare Kouhai Kanojo 1/thumbnail-650-918.pbew","name":"thumbnail-650-918"}},{"node":{"publicURL":"/labomagi/static/c53501a34029f5529fb816933bc46527/thumbnail-650-925.pbew","relativePath":"Netorare Kouhai Kanojo 2/thumbnail-650-925.pbew","name":"thumbnail-650-925"}},{"node":{"publicURL":"/labomagi/static/e7176e588dd37788103849330160f73b/thumbnail-650-925.pbew","relativePath":"Netorare Kouhai Kanojo 3/thumbnail-650-925.pbew","name":"thumbnail-650-925"}}]}},"pageContext":{}},
+    "staticQueryHashes": []}
